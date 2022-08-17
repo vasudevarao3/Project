@@ -103,6 +103,3 @@ def mainf():
 #mainfunction   
 mainf()  
 
-#AC88b93e3bda93cd8dc1b8abaef1731c7a
-#2f3e4380b66e31fd5b02fa9ec03db2fd
-#+16208378238
